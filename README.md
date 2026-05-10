@@ -40,7 +40,7 @@ src="https://img.shields.io/twitch/status/nai_tks?logo=twitchsx&style=for-the-ba
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thanathorn2546&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naithanathorn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanathorn2546&theme=tokyonight&hide_border=true"/>
 
